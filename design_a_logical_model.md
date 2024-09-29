@@ -26,12 +26,15 @@ Relationships are as follows:
 
 ### Overall Bookstore ERD
 
-![Bookstore ERD: Address Type1]("C:\Users\Test\Documents\_DSI - ML\SQL\Type 1 Diagram.png")
-![Bookstore ERD: Address Type2]("C:\Users\Test\Documents\_DSI - ML\SQL\Type 2 Diagram.png")
+![Bookstore ERD: Address Type1]![Type 1 Diagram](https://github.com/user-attachments/assets/633326c5-2b34-49d0-ad60-f1d7d43044e6)
+
+![Bookstore ERD: Address Type2]![Type 2 Diagram](https://github.com/user-attachments/assets/0100058b-2618-42c9-a141-dd3e72802a38)
+
 
 ### Shift Model for Employees
 
-![Shift ERD]("C:\Users\Test\Documents\_DSI - ML\SQL\Shift Model Diagram.png")
+![Shift ERD]![Shift Model Diagram](https://github.com/user-attachments/assets/9227d0a9-bc10-40e1-af4b-20bb08bb16ef)
+
 
 
 ### Question 3: Customer Addresses
