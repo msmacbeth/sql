@@ -28,5 +28,3 @@ SELECT customer_id, SUM(quantity * cost_to_customer_per_qty) AS total_spent
 FROM customer_purchases
 WHERE STRFTIME('%m', purchase_date) = '04' AND STRFTIME('%Y', purchase_date) = '2022'
 GROUP BY customer_id;
-
-

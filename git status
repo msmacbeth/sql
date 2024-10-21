@@ -1,0 +1,355 @@
+[33mf2747db[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31mupstream/main[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m q4 link fix
+[33mc35eddb[m final live code
+[33mf4722f2[m updated data for view
+[33mdf7eddd[m live coding
+[33m2ea4780[m day 4 live coding
+[33m4d00c55[m day 3 live coding!
+[33mdcc4303[m module 2 live code
+[33m4f899a3[m Merge pull request #79 from UofT-DSI/updated_database
+[33me5e4360[m[33m ([m[1;31mupstream/updated_database[m[33m)[m new database
+[33me280c34[m Update live code Readme.md
+[33ma73c3a9[m moving sql folders to live code folder
+[33md5e4bc2[m updating course support names on README.md
+[33m504e017[m keep files for live code folders
+[33mf825baa[m Merge branch 'main' of https://github.com/UofT-DSI/sql
+[33m43de1c0[m removing last cohort live code
+[33mf1bb047[m Create redirect readme for live code.md
+[33mf207c4b[m Update sqlite_setup.md
+[33m0792566[m fix missing images on pdf
+[33mef844dc[m spelling
+[33mcd21431[m Merge pull request #78 from UofT-DSI/start-of-class-updates
+[33m61c2618[m plus pdfs
+[33m3d51d4a[m main slides updates too
+[33m2d3a558[m update
+[33m14554dc[m update
+[33m7ecea5b[m Merge pull request #77 from UofT-DSI/main
+[33m11c87ad[m Merge pull request #76 from UofT-DSI/update_folder_name
+[33m56f87e5[m updating references to the old folder name.
+[33m52aa444[m cohort_three --> this_cohort
+[33m7932d9e[m Merge pull request #75 from UofT-DSI/start-of-class-updates
+[33m1d375ff[m Update homework_6.md
+[33mf9c78cd[m Update homework_5.md
+[33m7a9f4da[m Update homework_4.md
+[33m9125982[m Update homework_3.md
+[33m576134c[m Update homework_2.md
+[33maaf6914[m Update homework_1.md
+[33m2867d6b[m Update homework_2.md
+[33m0b0d7e3[m Update homework_3.md
+[33m6652622[m Update design_a_logical_model.md
+[33mf1d6f8c[m Update assignment_rubric.md
+[33mdc8acb0[m Update homework_1.md
+[33m41c4a98[m Update design_a_logical_model.md
+[33me55526a[m del
+[33m75d49f3[m Merge pull request #74 from UofT-DSI/update
+[33m13dbe5f[m updating relative paths
+[33mb702682[m 03_homework changed names
+[33me0c8433[m Update Folder Structures.
+[33me445f2b[m Updating workflow
+[33mc1a17a1[m Workflow added for automated comments.
+[33m5395e9f[m solutions folder
+[33m7363eb6[m homework solutions
+[33m9eab248[m 06 normal forms code
+[33mefb6cec[m 05 codes
+[33m4cdffe9[m Update homework_4.sql
+[33mac4b912[m Update homework_5.sql
+[33mc61be3b[m in class code class 4
+[33m52e3a43[m wrong pdf folder fix
+[33m4d23553[m fixing think pair share emoji inconsistency
+[33m9c49770[m minor 06 updates
+[33mb955096[m Merge pull request #44 from UofT-DSI/slides_05_reorg
+[33m197e765[m rearrange of 05 content
+[33m2f34d57[m minor 04 reference update
+[33m9f05821[m Delete transit_shelter_data.csv
+[33m79d3369[m minor 04 update
+[33m9a10b88[m in class code day 3
+[33m8b4a19c[m in class code
+[33m6bc434b[m in class code
+[33m767d5b3[m Merge pull request #17 from UofT-DSI/slide_03_changes
+[33m53a717a[m removed a view in the DB from last cohort
+[33mf31112b[m minor
+[33m1cd4150[m Merge pull request #14 from UofT-DSI/slides_02_modifications
+[33mb67ccd7[m slide 2 updates, minor consistency, some small content
+[33m6db44a3[m typo fix 01
+[33m9db2f69[m date fix on hw 3
+[33mff92c57[m homework sql files
+[33m2a858b1[m slide 1 due dates update to match homework
+[33m87eb16b[m Update design_a_logical_model.md
+[33m3151973[m Update homework_1.md
+[33m39d32da[m Update homework_6.md
+[33mab548aa[m Update homework_6.md
+[33m777225c[m Update homework_5.md
+[33m4d2146c[m Update homework_4.md
+[33m0462151[m Update homework_3.md
+[33m1d7ed70[m Update homework_2.md
+[33mef05e90[m Update homework_1.md
+[33m4337710[m Update slides_01.pdf
+[33m018de46[m minor update to about us, rearrange to appease html
+[33ma4f7af0[m Moving slide_redesign into its own branch. Removing from the main branch.
+[33m3f47dec[m Merge pull request #13 from UofT-DSI/slides_01_updates
+[33m1034001[m slides
+[33m6fa3f76[m Merge pull request #11 from UofT-DSI/cohort_three_changes
+[33m92662d6[m cohort three reorg and push
+[33me3ca522[m Merge pull request #10 from UofT-DSI/mrpotatocode-patch-1
+[33md17b09d[m Update README.md
+[33m7781826[m Merge pull request #8 from UofT-DSI/delete_cohort2_inclass_code
+[33m64b16f9[m Merge pull request #9 from UofT-DSI/readme_names
+[33m93ab00c[m better formatting
+[33m6b6f79b[m updated names
+[33mcb576f9[m delete all in class code
+[33m7019cdb[m Merge pull request #7 from UofT-DSI/thomas_css
+[33mad04786[m Updated the CSS file with accurate comments.
+[33m33ce240[m Updating tables and also the quote colors.
+[33m6dd4891[m Updating again closer to what thomas' slides were
+[33mbd5fedb[m MVP css for thomas built. Need to tweak.
+[33mb61cde3[m Update README.md
+[33m3ca14da[m[33m ([m[1;33mtag: [m[1;33mv3.0.0[m[33m)[m Merge branch 'main' of https://github.com/UofT-DSI/sql
+[33mc1025e5[m Making live_code snake cased.
+[33m81c9d97[m Making live_code snake cased.
+[33mf1dcf5d[m Updating Submission Information markdown syntax
+[33m171521a[m Updating the Pull Request templates to remove mention of adding Learning Supports and Technical Facilitators as reviewer.
+[33m4ebd7ad[m Merge pull request #6 from UofT-DSI/moejennie-patch-1
+[33ma3c1e27[m Update README.md
+[33mc52bd27[m Merge branch 'main' of https://github.com/UofT-DSI/sql
+[33m970d188[m Updating repo so that resources and live coding go into the new "cohort_3" folder.
+[33m82657bb[m Update README.md
+[33m6f97f69[m Update assignment_rubric.md
+[33m37f3e23[m Update README.md
+[33mb2507f3[m renaming lessons/slides folder in the instructors folder to "markdown_slides"
+[33mcc1bb76[m a grammatical change
+[33mf5aafed[m Merge pull request #5 from UofT-DSI/miscellaneous
+[33m1fb30be[m Miscellaneous tasks.
+[33m3015e13[m Update README.md
+[33m3b541c8[m Update README.md
+[33m0a4e0b7[m Update README.md
+[33m3a00cdf[m Update README.md
+[33m41be97b[m Removing Policies.
+[33mb7fb51e[m Update README.md
+[33md55a9e5[m Merge pull request #2 from UofT-DSI/new-structure
+[33m292f126[m Updating the README.md file.
+[33m7174790[m final polish to the repo.
+[33mfa29de2[m Replacing dashes with underscores
+[33mcf7d81c[m Updating the ask for help image
+[33m4e2dae5[m Adding certification to word rather than program
+[33m72ff719[m Rebased to resolve merge conflict
+[33m04df413[m parent 36b9a5df9693ab7f335f5b6063f5ea71572c9e17 author CODE, POTATO <t.rose.github@protonmail.com> 1709170028 -0500 committer rchung95 <raymond.chung24@outlook.com> 1711651036 -0400
+[33mbf5ff65[m updating hw4 title
+[33m417a182[m very minor hw 5
+[33mc16ab25[m Update Homework 5.pdf
+[33m3a083c4[m Update Homework 5.sql
+[33m1c22c40[m final in-code class
+[33mc242f91[m class 5 in class codes
+[33maedab08[m Update README.md
+[33m6e52038[m Update Homework 5.sql
+[33me89dcd1[m typo fix pdf
+[33m1f6e889[m typo fix
+[33m917d502[m slide 6 edit
+[33m44782b1[m minor slide 5, major slide 6
+[33m94a3b76[m Update README.md
+[33m6ea61df[m Update README.md
+[33m3cae518[m Update README.md
+[33m8df206d[m pdf folder
+[33m85b58a5[m slides 5
+[33m53d8185[m Update Homework 5.sql
+[33ma9db727[m Update README.md
+[33me011d95[m homework 5,6
+[33m45fe553[m in class code
+[33m36b9a5d[m folder fix
+[33m92d2eec[m Create Homework 4.pdf
+[33m220bfa3[m Merge branch 'main' of https://github.com/UofT-DSI/02-sql
+[33m95e0027[m homework 4 updated
+[33mde73f59[m Update Homework 4.sql
+[33m0982039[m Update Homework 3.sql
+[33m30f362a[m Update arthimitic.sql
+[33m78c6753[m Merge branch 'main' of https://github.com/UofT-DSI/02-sql
+[33m6ebd5ab[m in class codes
+[33m73abf53[m Update README.md
+[33mb0bd8d9[m  minor homework adjustments
+[33m1eed5cd[m slides 4
+[33m4ce6eeb[m Merge branch 'main' of https://github.com/UofT-DSI/02-sql
+[33ma417aa2[m Update slides_03.pdf
+[33m2942af0[m Update README.md
+[33ma83e65b[m slides 3 updates
+[33m2c1f3c3[m in class codes
+[33md535572[m annoying A1 minor change
+[33mfee1a95[m A1 super minor
+[33m321ea09[m A1 minor
+[33mf9649e4[m minor homework file update
+[33ma678489[m minor fixes
+[33md7b5582[m Update README.md
+[33mc590e86[m removing SQLs from last class
+[33mcef29db[m homework dates
+[33m02fc6b5[m week 1 updates
+[33m7759446[m Update README.md
+[33mf67510d[m Update README.md
+[33mae91f86[m Update README.md
+[33md6b29ce[m Update README.md
+[33mecab5e6[m Update README.md
+[33m0dcdbbf[m Slidedeck 4 INSTR typo fix
+[33m0cf27ca[m day 4 code
+[33mc2028c9[m code from session 3
+[33madd0d66[m remove sqbpro
+[33m1ea8c9f[m slide 4 push
+[33mf5483b6[m slide 3 menti adds
+[33me418ef0[m join queries
+[33mc2ea49d[m in class code day 2
+[33m64690b5[m minor slide 2
+[33m330731c[m Update README.md
+[33m08e7aa6[m super minor
+[33m3546a8e[m add submission to link to homework
+[33md2e2b66[m Update README.md
+[33m6e4ec4c[m Update README.md
+[33m0bde633[m quick slide update
+[33md2b6c9f[m Update README.md
+[33m916be26[m Update README.md
+[33m4dc2b98[m Update README.md
+[33m21fe54e[m Update README.md
+[33me784a5b[m homework 4
+[33m2234a10[m Merge branch 'main' of https://github.com/UofT-DSI/02-sql
+[33m27e515e[m fix link in slide1
+[33m93dcf58[m Update README.md
+[33mf6efa4a[m spelling
+[33m6a91c4a[m cleanup
+[33m7c25dd5[m table herpderp
+[33mec6e599[m Update README.md
+[33mc5901e4[m Create SQLite Setup.pdf
+[33m1bb890d[m Homework updates
+[33m72f57cf[m added Ananya bio slide+photo
+[33m9f3e373[m penguins remove
+[33m3392121[m Update Homework 1.pdf
+[33m06d3342[m Update README.md
+[33m8669c2e[m added homework 1
+[33m8694fc3[m Update README.md
+[33m203b5f9[m Update README.md
+[33m46bf342[m assignment 1 pdf update
+[33m8e8e4e9[m mostly cleanup
+[33m9901a31[m Create slides_01.pdf
+[33m4fa87d1[m Merge branch 'main' of https://github.com/UofT-DSI/02-sql
+[33ma511920[m slides 1
+[33m35d84b3[m Update README.md
+[33mb1934ae[m Merge branch 'main' of https://github.com/UofT-DSI/02-sql
+[33mdbde5ad[m start of repo cleanup
+[33m120bef9[m Update README.md
+[33mc73ebaf[m Update README.md
+[33mecbe9e5[m Update README.md
+[33m3c9a53d[m Update README.md
+[33m5840af8[m Update README.md
+[33mf2f10da[m Merge pull request #1 from UofT-DSI/RohanAlexander-patch-1
+[33mb47ccc0[m Update README.md
+[33m9426674[m Update README.md
+[33m568a355[m removed blank slide at start
+[33m5dcb3e6[m minor tweaks for ML code examples
+[33m1b78d87[m Zia Guest Speaker Slides
+[33mdfdff4b[m short version of module 7 push
+[33m76e0a13[m pdf minor code change
+[33md18a94b[m minor change for R examples
+[33m66cfda0[m missing homework 4 answers added
+[33mbcc72f3[m rename
+[33ma1a1777[m in class codes 6
+[33mf771166[m credit line for Lorena on model monitoring added
+[33m94fb785[m slide 5 & 6 pdf renders
+[33m9358fc2[m minor copy edit
+[33mb7c67c0[m module 6 push
+[33mf330f75[m module 06 push!
+[33m8881368[m post class 5 sql and slide typo
+[33m1acd39d[m module 5 slides
+[33m3bf817f[m add external data
+[33m089ead4[m slides 5, major
+[33me21adee[m assignment 2 additions
+[33mff65eee[m assignment 2 additions to deck
+[33mf48cee4[m assignment 2 added w/ rubric
+[33m3c46899[m in class module 4 codes
+[33m0c13946[m homework 4 added, homework 3 answers
+[33m92162af[m module 4 pdf
+[33mcd34b83[m Module 4 slides
+[33m4a4180a[m slide 7 minor update
+[33me004e99[m minor error in slide 7 correction
+[33m3afce46[m minor cleanup
+[33mc61fa27[m in class module 3 code
+[33m90fb562[m Create 2) Homework_answers.sql
+[33me26e5ef[m Homework Module 3
+[33m619d7eb[m module 03 pdf slides
+[33ma291779[m Assignment 3 added
+[33md8c54fb[m module 3 slide updates
+[33m986a0d1[m in class examples for module 2
+[33ma3e2d24[m module 2 copy edit
+[33m6b2a13c[m EST not EDT
+[33mc846b8f[m Merge branch 'main' of https://github.com/UofT-DSI/02-intro_sql
+[33m3507f66[m h2 spacing adjustment
+[33m6ed8789[m Update README.md
+[33m0e8981b[m homework shift (partial)
+[33m9167e19[m Update slides_02.pdf
+[33m8e85e5b[m slide 2 content shift
+[33m2c65efc[m added due dates for assignment 1
+[33mdd42503[m copy edit for module 1
+[33m48d06f4[m Update README.md
+[33m1861c73[m Merge branch 'main' of https://github.com/UofT-DSI/02-intro_sql
+[33m8e8cd7d[m Update README.md
+[33ma3a1aef[m Assignment 1 rubric and details
+[33m80b910b[m major update for deck 1
+[33m8df3161[m Update README.md
+[33mdf8c503[m post class homework folder + for classes 1-5
+[33m2359584[m start of class removal
+[33m66c23fa[m Update README.md
+[33mf03d251[m Update README.md
+[33m72b6c76[m Update README.md
+[33mfbecc34[m updating all readme header links to new repo
+[33m4abc48e[m Update README.md
+[33m9316cd4[m Update README.md
+[33ma5e4578[m minor update
+[33m38c395f[m very last push
+[33mbe504b9[m final upload of in-class material
+[33m73a7e10[m Merge branch 'main' of https://github.com/mrpotatocode/DSI_SQL
+[33mfcd6bc6[m adding non-sql code from in-class
+[33mc6cef8b[m Update README.md
+[33mf6deff9[m header slides missing
+[33m1c74efc[m add to GH
+[33m58e7269[m deck 6
+[33me5ef68f[m post class #4
+[33m008e2e9[m minor update
+[33mbfc303b[m 5 slides pdf
+[33m634f82c[m pre-class
+[33m38aeafe[m minor formatting
+[33m3199b07[m #3 post class
+[33ma364570[m Create 3) Post Class.html
+[33mc6092d0[m deck 5 push
+[33m1aad9fe[m updating order
+[33m7891d01[m slides 4 push
+[33m10ff9ea[m deck 4
+[33m5e7afcc[m saturday in class
+[33mb404863[m post class: added question and SQL script copy
+[33mbd4e154[m added answers
+[33me5e0232[m module 2 post class q's
+[33mf821afa[m class two queries
+[33m83fb44a[m very minor
+[33ma3f8991[m module 1 examples
+[33m52d055b[m pdf slides added
+[33me4854c3[m Update README.md
+[33m8d8cb75[m Update README.md
+[33m89acad9[m Update README.md
+[33mdaa30f4[m Update README.md
+[33mdb34823[m Update README.md
+[33ma8bc6a0[m Update .gitignore
+[33mcf7555d[m minor
+[33m11d1dd3[m slides push
+[33mdedbbfe[m good commit
+[33m19476d3[m more slides
+[33m1df9d84[m slide 1 update mostly
+[33mffb968d[m csv backups
+[33mcd967b1[m database added
+[33m3b9cb8f[m slide 2 progress
+[33ma7ad0eb[m commits
+[33m75e96f8[m Update README.md
+[33m15f4e56[m Update README.md
+[33m875d737[m aded link
+[33mdf2928b[m missing )
+[33m8a0d6c4[m now with 330%% more WEP
+[33m7a2c7be[m fix links
+[33m189d24c[m Update README.md
+[33m73f7758[m minor
+[33ma0cfc29[m Update README.md
+[33m6c16522[m slide placeholder commits
+[33m8ea4d9b[m Update README.md
+[33m8547973[m minor, loads to go
+[33m3f02024[m Update README.md
+[33m56d927f[m Create .gitignore
+[33m25abec4[m Initial commit
